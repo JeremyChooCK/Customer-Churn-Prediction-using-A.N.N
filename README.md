@@ -3,3 +3,4 @@ Churn rate tells you what portion of your customers leave over a period of time.
 
 A churn prediction model can help to identify customers who have a high chance of leaving so that businesses can then take steps to prevent that outcome.<br><br>
 This model predicts the churn rate of each customer according to data from a bank that operates in France, Germany and Spain.
+# Open the ipynb file to look at my findings!!
